@@ -1,7 +1,7 @@
 # DocAssist: Intelligent Medical Decision Support System
 
 <div align="center">
-  <img src="visuals/Screenshot 2025-03-02 at 00-15-56 DocAssist AI - Medical Report Analysis.png" alt="DocAssist AI Logo" width="400"/>
+  <img src="visuals/Screenshot 2025-03-02 at 00-15-56 DocAssist AI - Medical Report Analysis.png" alt="DocAssist AI Logo" width="800"/>
   <br>
   <p><i>Empowering Healthcare Decisions with AI</i></p>
 </div>
