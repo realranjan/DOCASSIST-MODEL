@@ -1,14 +1,20 @@
 # DocAssist: Intelligent Medical Decision Support System
 
 <div align="center">
-  <img src="visuals/docassist_logo.png" alt="DocAssist AI Logo" width="200"/>
+  <img src="visuals/Screenshot 2025-03-02 at 00-15-56 DocAssist AI - Medical Report Analysis.png" alt="DocAssist AI Logo" width="400"/>
   <br>
   <p><i>Empowering Healthcare Decisions with AI</i></p>
 </div>
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/realranjan/DOCASSIST-AI)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green.svg)](https://docassist-ai-alpha.vercel.app)
+[![UI Repository](https://img.shields.io/badge/UI-Repository-green.svg)](https://github.com/realranjan/DOCASSIST-AI)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange.svg)](https://docassist-ai-alpha.vercel.app)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Related Repositories
+
+##  🎨 **[UI Repository]** : (https://github.com/realranjan/DOCASSIST-AI) - Frontend implementation
+
 
 ## Problem Statement
 In the current medical landscape, doctors face significant challenges in processing vast amounts of patient data to make treatment decisions. This can lead to:
@@ -21,7 +27,7 @@ DocAssist addresses these challenges by providing an AI-powered decision support
 
 ## System Architecture
 <div align="center">
-  <img src="visuals/system_architecture.png" alt="DocAssist System Architecture" width="800"/>
+  <img src="visuals/docsvg.png" alt="DocAssist System Architecture" width="800"/>
   <br>
   <p><i>DocAssist AI System Architecture: Integrating Healthcare Support, Data Analysis, and Personalized Recommendations</i></p>
 </div>
@@ -32,11 +38,6 @@ The system features a modern, intuitive web interface built with:
 - **Backend**: Flask API server
 - **Deployment**: Vercel (Frontend), Render (Backend)
 
-<div align="center">
-  <img src="ui visuals/dashboard.png" alt="DocAssist Web Interface" width="800"/>
-  <br>
-  <p><i>DocAssist AI Web Interface: Modern, Intuitive, and User-Friendly Design</i></p>
-</div>
 
 ### Key UI Features
 - 📊 Interactive dashboards for data visualization
