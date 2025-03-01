@@ -163,9 +163,6 @@ The model is deployed with:
 - Monitoring system for detecting drift
 - Fallback mechanisms for reliable predictions
 
-## Live Demo
-Visit our [live demo](https://docassist-ai-alpha.vercel.app) to try out the system.
-
 ### Features Available in Demo
 - ✅ Blood test report analysis
 - ✅ Real-time parameter visualization
