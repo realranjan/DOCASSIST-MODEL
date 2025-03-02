@@ -67,18 +67,10 @@ The dataset is sourced from a private hospital in Indonesia and contains compreh
 
 ## Project Structure
 ```
-DOCASSIST-AI/
-├── backend/                 # Flask API server
-│   ├── app.py              # Main application
-│   ├── models/             # ML models
-│   └── utils/              # Helper functions
-├── frontend/               # Next.js frontend
-│   ├── components/         # UI components
-│   ├── pages/             # Application pages
-│   └── styles/            # CSS styles
+DOCASSIST-MODEL/
 ├── data/                  # Dataset files
-├── notebooks/             # Analysis notebooks
-├── ui visuals/            # Interface mockups
+├── models/             # model files
+├── notebooks/            # notebook
 └── visuals/              # Project diagrams
 ```
 
@@ -180,13 +172,10 @@ The model is deployed with:
 ### Installation
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone [https://github.com/realranjan/DOCASSIST-MODEL.git]
 
 # Navigate to project directory
 cd docassist
-
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ### Usage
