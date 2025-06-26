@@ -243,6 +243,45 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open-source community for machine learning tools and libraries
 
 ---
+
+## 👤 About the Author: Ranjan Vernekar
+
+As the project lead for DocAssist, I spearheaded the end-to-end development and deployment of an AI-powered medical decision support system. My key contributions include:
+
+- **Full-stack Solution Design:**  
+  Architected and implemented a robust, modular system integrating a Python-based machine learning backend (LightGBM, XGBoost, CatBoost, etc.) with a modern, responsive Next.js frontend, ensuring seamless user experience for healthcare professionals.
+
+- **Data Engineering & Preprocessing:**  
+  Led the data pipeline design, including advanced feature engineering (e.g., thrombocyte-leucocyte ratio), robust handling of missing/duplicate values, and scaling/encoding strategies to optimize model performance on real-world medical datasets.
+
+- **Model Selection & Optimization:**  
+  Conducted comprehensive benchmarking of multiple ML algorithms, culminating in the selection and fine-tuning of LightGBM as the final production model, achieving a test accuracy of 77.34%, ROC AUC of 0.82, and precision of 0.75.
+
+- **Production-Ready ML Deployment:**  
+  Developed a retrainable, versioned model deployment pipeline with monitoring and fallback mechanisms, ensuring reliability and adaptability in clinical environments.
+
+- **UI/UX Innovation:**  
+  Designed and integrated a user-friendly web interface with real-time dashboards, PDF report analysis, and secure data handling, leveraging shadcn/ui and Tailwind CSS for a modern look and feel.
+
+- **Open Source & Documentation:**  
+  Authored comprehensive documentation and a visually rich README, including architecture diagrams, UI screenshots, and clear project structure, facilitating community contributions and transparency.
+
+- **Cross-functional Collaboration:**  
+  Coordinated with healthcare professionals for domain expertise, and managed open-source contributions, fostering a collaborative and innovative project culture.
+
+- **End-to-End Deployment:**  
+  Deployed the solution using Vercel (frontend) and Render (backend), and ensured accessibility via a live demo and public GitHub repositories ([DOCASSIST-AI UI & Backend](https://github.com/realranjan/DOCASSIST-AI), [DOCASSIST-MODEL](https://github.com/realranjan/DOCASSIST-MODEL)).
+
+### Resume-Ready Bullet Points
+
+- Led the design and deployment of DocAssist, an AI-driven medical decision support system, integrating LightGBM for 77.34% test accuracy and 0.82 ROC AUC.
+- Architected a scalable, modular ML pipeline with robust data preprocessing, feature engineering, and model versioning for clinical reliability.
+- Developed a modern, responsive web UI using Next.js and Tailwind CSS, enabling real-time blood test analysis and PDF report generation.
+- Authored comprehensive project documentation, including technical architecture, UI/UX visuals, and open-source guidelines, driving community engagement.
+- Deployed full-stack solution to production (Vercel/Render), providing a live demo and public repositories for global accessibility.
+- Collaborated with healthcare professionals and open-source contributors to ensure clinical relevance and technical excellence.
+
+---
 <div align="center">
   <p>Made with ❤️ by the DocAssist AI Team</p>
   <p>© 2024 DocAssist AI. All rights reserved.</p>
